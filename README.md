@@ -1,2 +1,6 @@
 # Study2025
 All coding and Excel files used in the study that theoretically parallels and empirically correlates Complexity and Open Society in cities are available, authored by Yael Bulis.
+
+This study explores the conceptual and empirical intersection between the political-philosophical idea of the Open Society and the scientific framework of Complexity Theories of Cities (CTC). It proposes that the Open Society, as articulated by Karl Popper, can meaningfully contribute to CTC and vice versa. Drawing on philosophy of politics and Complexity Theories perspectives, the work develops a layered analogy between Open Society and complex urban systems. It then tests this relationship empirically across 38 European cities through a correlation analysis of urban complexity and urban Open Society indices, developed specifically for this study, revealing a moderately strong association. The findings suggest that cities functioning as open societies possess an enhanced capacity for adaptation, problem-solving, and entropy regulation. At a time when democratic institutions are under increasing strain, this study offers a novel theoretical and methodological framework for understanding the role of cities in sustaining open and resilient societies within the context of CTC.
+
+See requirements.txt for all the packages needed for coding.
